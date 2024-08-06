@@ -1,6 +1,6 @@
 
 
-# HTTPie-like CLI Tool in Rust
+# HTTPie CLI Tool in Rust
 
 A naive HTTPie implementation with Rust, can you imagine how easy it is?
 
