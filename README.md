@@ -1,6 +1,5 @@
-基于你的项目链接 `https://github.com/HSn0918/httpie`，以下是一个更详细和针对性的 `README.md` 文件：
 
-```markdown
+
 # HTTPie-like CLI Tool in Rust
 
 A naive HTTPie implementation with Rust, can you imagine how easy it is?
@@ -153,4 +152,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [HTTPie](https://httpie.io/) for inspiration
 - The Rust community for their amazing work on libraries and tools
-```
